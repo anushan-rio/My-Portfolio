@@ -25,7 +25,7 @@ export const workExperience = [
     company: "Aithent",
     location: "Chennai , India",
     position: "Software Developer",
-    period: "Nov 2 - July 2024",
+    period: "Nov 2021- July 2024",
     achievements: [
       "Designed and implemented a secure authentication system using JWT-based token management, enabling safe login, logout, and session handling across web applications",
 
@@ -141,52 +141,20 @@ export const projects = [
 
 export const awards = [
   {
-    name: "Lorem Ipsum Award",
-    issuer: "Lorem Organization",
-    date: "Jan 2020",
-    type: "International",
-    position: "First Place",
+    name: "Innovation in Modern Software Development",
+    issuer: "CEO Of Aithent",
+    date: "Dec 2022",
   },
   {
-    name: "Dolor Sit Amet Prize",
-    issuer: "Ipsum Foundation",
-    date: "Feb 2021",
-    type: "National",
-    position: "Runner-up",
+    name: "Team Collaboration Excellence",
+    issuer: "CEO Of Aithent",
+    date: "Dec 2023",
+    
   },
   {
-    name: "Consectetur Hackathon",
-    issuer: "Adipiscing Org",
-    date: "Mar 2022",
-    type: "National",
-    position: "Winner",
+    name: "Outstanding Contribution to Backend Architecture",
+    issuer: "CEO Of Aithent",
+    date: "Jun 2024",
   },
-  {
-    name: "Vestibulum Event",
-    issuer: "Vestibulum College",
-    date: "Apr 2022",
-    type: "National",
-    position: "First Prize",
-  },
-  {
-    name: "Curabitur Hackfest",
-    issuer: "Curabitur Institute",
-    date: "May 2022",
-    type: "National",
-    position: "Second Prize",
-  },
-  {
-    name: "Praesent Hacks",
-    issuer: "Praesent Group",
-    date: "Jun 2022",
-    type: "National",
-    position: "Second Runner-up",
-  },
-  {
-    name: "Fusce Hack",
-    issuer: "Fusce Club",
-    date: "Jul 2022",
-    type: "National",
-    position: "Most Impactful Hack",
-  },
+  
 ];
